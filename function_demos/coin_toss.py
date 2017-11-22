@@ -1,6 +1,7 @@
 # CTI 110
 # coin_toss.py -- simulates coin tosses
 # demonstrates import and the random module
+# updated 11/23
 
 # use the random module
 import random

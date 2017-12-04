@@ -1,5 +1,5 @@
 
-#background-image
+body
  {
-    background-image: url("../images/waves.jpg");
+    background-image: url("../images/background.jpg") ;
 }
